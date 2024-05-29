@@ -4,6 +4,10 @@ import com.factory.good.Good;
 import com.factory.good.GoodTypeEnum;
 
 /**
+ * 工厂模式，就是一般是一类产品，然后通过每个产品工厂进行创建实例
+ * 抽象工厂，就是产品族，使用工厂的工厂
+ *
+ *
  * @Auther: wangyimin 688153
  * @Date: 2024/5/22 17:28
  * @Description:
